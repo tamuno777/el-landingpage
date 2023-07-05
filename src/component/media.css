@@ -1,0 +1,233 @@
+@media only screen and (max-width: 300px) {
+    .nav-img{
+      padding: 7% 10% 6% 0;
+      position: relative;
+      border-right: 2px solid orange;
+     
+    }
+    .nav-img::before {
+      width: 70% !important;
+      height: 2px;
+      background: orange;
+      position: absolute;
+      bottom: 0px;
+      left: 20px;
+    
+      /* top: 0px; */
+    }
+    .nav-img::after {
+      width: 43% !important;
+      height: 2px;
+      background: orange;
+      position: absolute;
+      top: 0px;
+      left: 36px;
+    }
+    .nav-brand{
+      padding: 1% 1% 1% 0;
+      width: 10em;
+    }
+    .nav-img > img{
+      /* padding: 0 13% 0 2%; */
+      height: 30px;
+      width: 50px;
+    
+    
+    }
+    
+    
+   
+    .nav-text{
+      color: #FFF !important;
+      font-size: 20px;
+      font-family: Rubik;
+      font-style: normal;
+      font-weight: 600;
+      line-height: normal;
+      padding: 0 5% 0 0;
+      
+    }
+    .nav-content >a{
+      /* color: black !important;  */
+      font-size: 15px;
+      font-family: Rubik;
+      font-style: normal;
+      font-weight: 700;
+      line-height: normal;
+      padding: 10% 1%;
+      align-items: center;
+      display: flex;
+      gap: 8px;
+    
+    
+    }
+   
+    .nav-links{
+      text-decoration: none;
+      margin-left: 0;
+    }
+   
+    
+    .firstpage-box{
+      text-align: center;
+      margin: 0 20px;
+      color: #FFF !important;
+      padding: 180px 0 150px 0;
+      
+       
+    }
+    .firstpage-box > H1{
+      font-weight:bold !important;
+      padding: 0 0;
+      line-height: 55px;
+      font-size: 34px;
+      
+    }
+    .firstpage-box > p{
+      font-size: 8px;
+    }
+  }
+  .about-container{
+    background: rgba(15, 13, 13, 0.92);
+    margin: 0 !important;
+    padding: 13% 0 10% 0;
+    
+  }
+  .about-box{
+    display: block;
+    margin-bottom: 10%;
+    
+  }
+  
+  .about-text{
+    /* max-width: fit-content; */
+    width: 70%;
+    text-align: center;
+    margin-right: 0%;
+    line-height: normal;
+    padding: 5% 0 0 0;
+    color: #FFF !important;
+  }
+  .about-text> p{
+    text-align: center;
+  }
+  .about-img{
+    width: 100%;
+    padding: 10% 0 0 0;
+    margin-top: 20%;
+    display: block;
+    /* width: 100%; */
+  
+  }
+  .bgSvg{
+    position: relative;
+    left: 40px;
+    right: 0;
+    
+    display: block;
+    width: 290px;
+    height: 170px;
+  }
+  .lady{
+    width: 189px;
+    position: absolute;
+    right: 120px;
+    bottom: -573px;
+  }
+  .H2 >img{
+    width: 10px;
+    /* width: 500px; */
+  /* height: 350px; */
+  flex-shrink: 0;
+  overflow: hidden !important;
+  
+  }
+  .H3 >img{
+    width: 100%;
+    /* width: 500px; */
+  /* height: 350px; */
+  flex-shrink: 0;
+  }
+  .first-contact{
+    /* align-items: flex-start; */
+    text-align: left;
+    margin-left: -23px;
+  
+  
+  }
+  .first-contact > p{
+    color: #FFF;
+    font-size: 14px;
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+  }
+  .contact-container{
+    background: rgba(15, 13, 13, 0.92);
+  }
+  .contact-box >h5{
+    color: #FFF !important;
+  }
+  .second-contact{
+    /* align-items: flex-start; */
+    text-align: left;
+    margin-right: 15px;
+  
+  
+  
+  }
+  .second-contact > p{
+    color: #FFF;
+    font-size: 14px;
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+  
+  }
+  .input-box1{
+    margin: 3%;
+    }
+    .inpute{
+      border-radius: 10px !important;
+      width: 75%;
+      border: 1px solid white;
+      padding: 5px 2px !important;
+      display: block;
+      background-color: transparent;
+      /* margin: 1%; */
+      text-align: start;
+      margin: auto;
+      color: #FFF;
+    
+    }
+    .inpute::placeholder{
+      color: #ffffff !important;
+    }
+    .text-white{
+      color: #FFF !important;
+    }
+    .social{
+      text-align: start;
+      margin: 1% 0%;
+    }
+    .small{
+      align-items: baseline !important;
+      padding-top: 1%;
+      padding-right: 3%;
+      padding-left: 25%;
+    }
+    .Button2{
+      color: #FFF !important;
+      border-radius: 20px !important;
+      color: #FFF;
+      padding: 8px 30px !important;
+    background: var(--yelllow, rgba(235, 188, 25, 0.77)) !important;
+    text-shadow: 0px 6px 30px 5px rgba(0, 0, 0, 0.25);
+    font-size: 16px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    }
