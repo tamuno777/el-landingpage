@@ -94,7 +94,7 @@
   /* width: 100vw;  */
  /* height: 720px;  */
  background-blend-mode: color-burn;
- height: 100vh;
+ width: 100vw;
  background-size: cover;
  background-repeat: no-repeat;
  background-position: center center;
@@ -338,6 +338,11 @@ footer{
   
   
   }
+  .banner{
+   height: 120vh;
+   width: 100vw;
+   
+  }
   
   
  
@@ -382,7 +387,7 @@ footer{
   }
   .firstpage-box > H1{
     font-weight:bold !important;
-    padding: 0 0;
+    padding: 0 60px;
     line-height: 55px;
     font-size: 34px;
     
