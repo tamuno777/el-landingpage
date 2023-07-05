@@ -423,7 +423,7 @@ footer{
   }
   .bgSvg{
     position: relative;
-    left: 40px;
+    left: 60px;
     right: 0;
     
     display: block;
@@ -433,8 +433,8 @@ footer{
   .lady{
     width: 189px;
     position: absolute;
-    right: 120px;
-    bottom: -573px;
+    right: 110px;
+    bottom: -500px;
   }
   
   .first-contact{
