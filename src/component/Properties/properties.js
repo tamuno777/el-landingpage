@@ -8,6 +8,8 @@ import { motion } from 'framer-motion'
 
 
 export default function Properties() {
+
+    
   return (
     <div>
         <div className="properties-box pt-4 ">
@@ -16,8 +18,9 @@ export default function Properties() {
            <Row className='mb-2' >
                 <Col className='H2'>
                     <motion.img src={H1} alt="" 
+                    
                     initial={{
-                        x:-200,
+                        x:-100,
                     }}
                      whileInView={{ x:0  }}
                      transition={{
@@ -29,7 +32,7 @@ export default function Properties() {
                 <Col className='H3'>
                     <motion.img src={H2} alt=""
                      initial={{
-                        x:200,
+                        x:100,
                     }}
                     whileInView={{ x:0}}
                     transition={{
@@ -42,7 +45,7 @@ export default function Properties() {
                 <Col className='H2'>
                     <motion.img src={H3} alt=""
                      initial={{
-                        x:-200,
+                        x:-100,
                     }}
                     whileInView={{x:10   }}
                     transition={{
@@ -53,7 +56,7 @@ export default function Properties() {
                 <Col className='H3'>
                     <motion.img src={H4} alt="" 
                      initial={{
-                        x:200,
+                        x:100,
                     }}
                     whileInView={{ x:0}}
                     transition={{
