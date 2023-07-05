@@ -1,6 +1,6 @@
 import React from 'react'
-import bgSvg from '../../El img/Ellipse 13.png'
-import lady from '../../El img/unsplash_mpDV4xaFP8c.png'
+import bgSvg from '../../img/Ellipse 13.png'
+import lady from '../../img/unsplash_mpDV4xaFP8c.png'
 import { motion } from 'framer-motion'
 export default function About() {
   return (
