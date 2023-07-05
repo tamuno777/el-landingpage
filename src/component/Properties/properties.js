@@ -22,7 +22,7 @@ export default function Properties() {
                      whileInView={{ x:0  }}
                      transition={{
                        type: "smooth",
-                       duration: 0.7,
+                       
                     }}
                     />
                 </Col>
@@ -34,7 +34,7 @@ export default function Properties() {
                     whileInView={{ x:0}}
                     transition={{
                       type: "smooth",
-                      duration: 0.7,
+                     
                    }} />
                 </Col>
             </Row>
@@ -47,7 +47,7 @@ export default function Properties() {
                     whileInView={{x:10   }}
                     transition={{
                       type: "smooth",
-                      duration: 0.7,
+                      
                    }} />
                 </Col>
                 <Col className='H3'>
@@ -58,7 +58,7 @@ export default function Properties() {
                     whileInView={{ x:0}}
                     transition={{
                       type: "smooth",
-                      duration: 0.7,
+                    //   duration: 0.7,
                    }}
                     />
                 </Col>
