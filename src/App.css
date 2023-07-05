@@ -302,7 +302,7 @@ footer{
 }
 
 
-@media only screen and (max-width: 399px) {
+@media only screen and (max-width: 600px) {
   
   .nav-img{
     padding: 7% 10% 6% 0;
