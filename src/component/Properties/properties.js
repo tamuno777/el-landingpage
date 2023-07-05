@@ -17,7 +17,7 @@ export default function Properties() {
            
            <Row className='mb-2' >
                 <Col className='H2'>
-                    <motion.img src={H1} alt="" 
+                    <motion.img src={H1} alt="image" 
                     
                     initial={{
                         x:-100,
@@ -30,7 +30,7 @@ export default function Properties() {
                     />
                 </Col>
                 <Col className='H3'>
-                    <motion.img src={H2} alt=""
+                    <motion.img src={H2} alt="image"
                      initial={{
                         x:100,
                     }}
@@ -43,7 +43,7 @@ export default function Properties() {
             </Row>
             <Row>
                 <Col className='H2'>
-                    <motion.img src={H3} alt=""
+                    <motion.img src={H3} alt="image"
                      initial={{
                         x:-100,
                     }}
@@ -54,7 +54,7 @@ export default function Properties() {
                    }} />
                 </Col>
                 <Col className='H3'>
-                    <motion.img src={H4} alt="" 
+                    <motion.img src={H4} alt="image" 
                      initial={{
                         x:100,
                     }}
