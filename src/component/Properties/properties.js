@@ -1,6 +1,6 @@
 import React from 'react'
 import { Row , Col} from 'react-bootstrap'
-import H1 from '../../img/unsplash_2gDwlIim3Uw.png' 
+import H1 from '../../img/f1.jpg' 
 import H2 from '../../img/unsplash_2d4lAQAlbDA.png' 
 import H3 from '../../img/unsplash_MAnVoJlQUvg.png' 
 import H4 from '../../img/unsplash_JvQ0Q5IkeMM.png' 
