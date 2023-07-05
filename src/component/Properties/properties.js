@@ -19,52 +19,52 @@ export default function Properties() {
                 <Col className='H2'>
                     <img src={H1} alt="image" 
                     
-                    // initial={{
-                    //     x:-100,
-                    // }}
-                    //  whileInView={{ x:0  }}
-                    //  transition={{
-                    //    type: "smooth",
+                    initial={{
+                        x:-100,
+                    }}
+                     whileInView={{ x:0  }}
+                     transition={{
+                       type: "smooth",
                        
-                    // }}
+                    }}
                     />
                 </Col>
                 <Col className='H3'>
                     <img src={H2} alt="image"
-                //      initial={{
-                //         x:100,
-                //     }}
-                //     whileInView={{ x:0}}
-                //     transition={{
-                //       type: "smooth",
+                     initial={{
+                        x:100,
+                    }}
+                    whileInView={{ x:0}}
+                    transition={{
+                      type: "smooth",
                      
-                //    }}
+                   }}
                     />
                 </Col>
             </Row>
             <Row>
                 <Col className='H2'>
                     <img src={H3} alt="image"
-                //      initial={{
-                //         x:-100,
-                //     }}
-                //     whileInView={{x:10   }}
-                //     transition={{
-                //       type: "smooth",
+                     initial={{
+                        x:-100,
+                    }}
+                    whileInView={{x:10   }}
+                    transition={{
+                      type: "smooth",
                       
-                //    }} 
+                   }} 
                    />
                 </Col>
                 <Col className='H3'>
                     <img src={H4} alt="image" 
-                //      initial={{
-                //         x:100,
-                //     }}
-                //     whileInView={{ x:0}}
-                //     transition={{
-                //       type: "smooth",
-                //     //   duration: 0.7,
-                //    }}
+                     initial={{
+                        x:100,
+                    }}
+                    whileInView={{ x:0}}
+                    transition={{
+                      type: "smooth",
+                    //   duration: 0.7,
+                   }}
                     />
                 </Col>
             </Row>

@@ -303,9 +303,7 @@ footer{
 
 
 @media only screen and (max-width: 400px) {
-  *{
-    overflow: hidden !important;
-  }
+  
   .nav-img{
     padding: 7% 10% 6% 0;
     position: relative;
