@@ -162,7 +162,7 @@ line-height: normal;
   width: 349px;
   position: absolute;
   right: 200px;
-  bottom: -598px;
+  bottom: -694px;
 }
 
 .properties-box > h5{
@@ -302,7 +302,7 @@ footer{
 }
 
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 400px) {
   .nav-img{
     padding: 7% 10% 6% 0;
     position: relative;
