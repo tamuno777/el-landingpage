@@ -1,9 +1,9 @@
 import React from 'react'
 import { Row , Col} from 'react-bootstrap'
-import H1 from '../../img/unsplash_2gDwlIim3Uw.png' 
-import H2 from '../../img/unsplash_2d4lAQAlbDA.png' 
-import H3 from '../../img/unsplash_MAnVoJlQUvg.png' 
-import H4 from '../../img/unsplash_JvQ0Q5IkeMM.png' 
+import H1 from '../../img/53024510117_5a6d973d00_o.png' 
+import H2 from '../../img/53025479905_2fe503ba3a_o.png' 
+import H3 from '../../img/53024510107_a77d4dcb30_o.png' 
+import H4 from '../../img/53025575728_8e06a4f5bb_o.png' 
 import { motion } from 'framer-motion'
 
 
