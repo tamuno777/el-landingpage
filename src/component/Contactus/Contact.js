@@ -1,10 +1,10 @@
 import React from 'react'
 import { Row, Col } from 'react-bootstrap'
 import Button from '@mui/material/Button';
-import facebook from '../../El img/Facebook.svg'
-import google from '../../El img/Google.svg'
-import twitter from '../../El img/Twitter.svg'
-import pintrest from '../../El img/Pinterest.svg'
+import facebook from '../../img/Facebook.svg'
+import google from '../../img/Google.svg'
+import twitter from '../../img/Twitter.svg'
+import pintrest from '../../img/Pinterest.svg'
 import { motion } from 'framer-motion';
 
 // import Input  from "@mui/material/Input"
