@@ -25,6 +25,8 @@ export default function Properties() {
                      whileInView={{ x:0  }}
                      transition={{
                        type: "smooth",
+                       duration: 0.5,
+
                        
                     }}
                     />
@@ -37,6 +39,8 @@ export default function Properties() {
                     whileInView={{ x:0}}
                     transition={{
                       type: "smooth",
+                      duration: 0.5,
+
                      
                    }}
                     />
@@ -51,6 +55,8 @@ export default function Properties() {
                     whileInView={{x:10   }}
                     transition={{
                       type: "smooth",
+                      duration: 0.5,
+
                       
                    }} 
                    />
@@ -63,7 +69,7 @@ export default function Properties() {
                     whileInView={{ x:0}}
                     transition={{
                       type: "smooth",
-                    //   duration: 0.7,
+                      duration: 0.5,
                    }}
                     />
                 </Col>
