@@ -340,7 +340,7 @@ footer{
   
   }
   .banner{
-   height: 120vh;
+   height: 100vh;
    width: 100vw;
    
   }
@@ -441,7 +441,7 @@ footer{
     width: 189px;
     position: absolute;
     right: 110px;
-    bottom: -500px;
+    bottom: -650px;
   }
   
   .first-contact{
